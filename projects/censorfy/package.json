@@ -1,0 +1,11 @@
+{
+	"author" : "Abhilash",
+	"name"	: "censorfy",
+	"main" : "censortext",
+	"version" : "0.0.7",
+	"description" : "Censoring words app",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
